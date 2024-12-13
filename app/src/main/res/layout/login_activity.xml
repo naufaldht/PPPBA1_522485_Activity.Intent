@@ -116,7 +116,7 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:textColor="@color/white"
-        android:backgroundTint="@color/gold"
+        android:backgroundTint="@color/blue"
         android:elevation="15dp"
         />
 
